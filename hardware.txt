@@ -1,0 +1,2 @@
+Wemo D1 mini is powered from USB socket.
+An SSD1306 OLED display connects to VCC (33V) GND SDA and SCL. Thats all.
